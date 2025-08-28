@@ -25,3 +25,13 @@
 - It actually downloads and merges the changes into your current branch.  
 - Useful when you are ready to update your branch with the latest changes from the remote repository.  
 
+### Git Merge Conflict
+
+A merge conflict arises when two or more people try to change the same line of code in a file.  
+
+I can solve it by:  
+1. Opening the file.  
+2. Removing the conflict markers
+3. Deciding which line of code should remain (or by combining both lines).  
+4. Committing the changes.  
+5. Finally, the merge conflict is cleared.
