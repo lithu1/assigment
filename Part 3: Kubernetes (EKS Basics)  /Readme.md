@@ -21,4 +21,4 @@
 In case of Kubernetes on VMs, we have to manage everything like installation, upgrades, scaling, and security.  
 In EKS, AWS takes care of all these, and we only manage the worker nodes and our applications.
 # 2.
-- Completed writing Kubernetes YAML file for deploying app from Part-2 and a LoadBalancer service for it.
+- Completed writing Kubernetes YAML file for deploying app from Part-2 and a LoadBalancer service for it in flask-app-deployment.yaml.
