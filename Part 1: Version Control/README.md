@@ -26,7 +26,7 @@ I can solve it by:
 4. Committing the changes.  
 5. Finally, the merge conflict is cleared.
 
-##3.
+## 3.
 ### Simulating a Merge Conflict and Resolving It
 
 1. I created a `main` branch in the repo and added a file named `file.txt`.  
